@@ -48,12 +48,11 @@ This workbook does the same job in one click, and shows how much money is sittin
 ## Files
 
 ```
+├── AR_Simulation.xlsm            Macro-enabled workbook with sample data
 ├── SQL_Queries/
 │   └── AR_Data_Pull.sql          DB2 / AS400 extraction query
 ├── VBA_Source_Code/
 │   └── AR_Aging_Analyzer.bas     The macro
-├── Workbook/
-│   └── AR_Simulation.xlsm        Macro-enabled workbook with sample data
 └── Screenshots/
     ├── 1_dashboard.png
     ├── 2_aged_data.png
